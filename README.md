@@ -1,0 +1,2 @@
+# practice_202601
+GitHub ActionsとAWSで実現するDevOps実践講座
